@@ -1,5 +1,11 @@
 ## Clock and Stopwatch Web App
 
+Welcome to my project! Here's a preview of what it looks like:
+
+![Clock and Stopwatch Screenshot](https://github.com/vikaspatel-900/Clock-and-Stopwatch-Web-App/raw/main/Screenshot%202024-09-11%20021103.png)
+![Clock and Stopwatch Screenshot](https://github.com/vikaspatel-900/Clock-and-Stopwatch-Web-App/raw/main/Screenshot%202024-09-11%20021126.png)
+
+
 ### Overview
 
 This project is a web application that features an analog clock, a digital clock, and a stopwatch all on a single page. The application is fully responsive and designed to work seamlessly across various devices.
